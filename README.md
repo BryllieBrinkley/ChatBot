@@ -1,6 +1,6 @@
-## ChatBot Project
+## ChatBot
 ChatBot is a functional chat bot that responds differently based on the type of user input.
-The chat bot can handle user questions, simulate thinking time, and provide different responses based on the input.
+The bot can handle user questions, simulate thinking time, and provide different responses based on the input.
 
 ## Project Overview / Features
 - UI Integration: Provides an interactive user interface for input and output.
