@@ -8,7 +8,7 @@ The bot can handle user questions, simulate thinking time, and provide different
 
 ## Features
 - Realistic Interaction: Simulates thinking time before providing a response.
-- User Interface: Uses a `UITableView` to display messages and a text input field for user queries.
+- User Interface: Uses a UITableView to display messages and a text input field for user queries.
 
 ## Getting Started
 
@@ -20,4 +20,3 @@ Build and Run: Build and run the project on a simulator or physical device.
 - Enter a question in the text field.
 - Press return to submit the question.
 - Observe the simulated "thinking" process and the response displayed in the conversation history.
-
