@@ -13,7 +13,9 @@ The bot can handle user questions, simulate thinking time, and provide different
 ## Getting Started
 
 Clone or Download: Clone the repository or download the project files from GitHub.
+
 Open in Xcode: Open ChatBot.xcodeproj in Xcode.
+
 Build and Run: Build and run the project on a simulator or physical device.
 
 ## Interact with the App:
